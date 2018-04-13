@@ -9,4 +9,4 @@
 
 4、使用HASS自带的mqttserver做消息传递。
 
-
+![思维导图](https://flywen.github.io/1.png)
