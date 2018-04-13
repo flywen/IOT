@@ -7,4 +7,6 @@
 
 3、场景使用HASS平台；
 
-4、使用HASS自带灯mqttserver做消息传递。
+4、使用HASS自带的mqttserver做消息传递。
+
+
